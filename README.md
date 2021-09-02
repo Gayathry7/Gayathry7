@@ -7,8 +7,8 @@
 
 <div align=center >
   
-  <img src="https://github-readme-stats.vercel.app/api?username=Gayathry7&hide=issues&count_private=true&show_icons=true&theme=nightowl&include_all_commits=true&text_color=ffffff"     alt="Gayathry's GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gayathry7&layout=compact&theme=nightowl&text_color=ffffff" height=170 alt="Languages worked"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Gayathry7&hide=issues&count_private=true&show_icons=true&theme=nightowl&include_all_commits=true&text_color=ffffff" alt="Gayathry's GitHub stats" align="left"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gayathry7&layout=compact&theme=nightowl&text_color=ffffff" height=170 alt="Languages worked" align="right"/>
 
 </div>
 
