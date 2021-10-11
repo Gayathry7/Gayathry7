@@ -1,13 +1,41 @@
 ![profile](img-7.jpg)
-- 👋 Hi, I’m Gayathry
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!-- <div> -->
+<!-- ### :space_invader: &nbsp;About Me -->
+<!-- ### About Me -->
+<h2 align="center">About Me :raised_hand:</h2>
+
+
+ &nbsp;&nbsp;&nbsp;:hammer_and_wrench: I am passionate Full Stack Web Developer who focuses on writing clean
+and user-friendly applications.
+<br/>
+&nbsp;&nbsp;&nbsp;:heartbeat: &nbsp; I love designing websites and coding.
+<br/>
+&nbsp;&nbsp;&nbsp;:seedling: I'm skilled at MERN based web app development, alongside upskilling my data structure and algorithms knowledge.
+<br/>
+&nbsp;&nbsp;&nbsp;:office: Currently working as an Instructional Associate @masai-school.
+
+<br/>
+
+
+<h2 align="center">:computer: Tech Stacks </h2>
+
+<div align="center">
   
-<h2 align="center">⚡ Stats ⚡</h2>
+  ![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+  ![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+  ![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
+  ![React](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
+  ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white)&nbsp;
+  ![Node.js](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
+  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
+  ![Boot Strap](https://img.shields.io/badge/BootStrap-%234ea94b.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
+ 
+  
+</div> 
+  
+ <br/>
+<h2 align="center">Stats ⚡</h2>
 <br>
 <p align=center>
   <div align=center>
@@ -19,6 +47,8 @@
 <!--     </a> -->
   </div>
 </p>
+
+<br/> <br/>
 
 
 <!-- </div> -->
