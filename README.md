@@ -40,10 +40,10 @@ and user-friendly applications.
 <p align=center>
   <div align=center>
 <!--     <a> -->
-      <img align="left" width=455 src="https://github-readme-stats.vercel.app/api?username=Gayathry7&hide=issues&count_private=true&show_icons=true&theme=nightowl&include_all_commits=true&text_color=ffffff" alt="zumrudu-anka" />
+      <img align="left" width=355 src="https://github-readme-stats.vercel.app/api?username=Gayathry7&hide=issues&count_private=true&show_icons=true&theme=nightowl&include_all_commits=true&text_color=ffffff" alt="zumrudu-anka" />
 <!--     </a> -->
 <!--     <a> -->
-      <img align="right" width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gayathry7&layout=compact&theme=nightowl&text_color=ffffff" />
+      <img align="right" width=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gayathry7&layout=compact&theme=nightowl&text_color=ffffff" />
 <!--     </a> -->
   </div>
 </p>
