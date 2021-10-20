@@ -13,7 +13,8 @@ and user-friendly applications.
 &nbsp;&nbsp;&nbsp;:seedling: I'm skilled at MERN based web app development, alongside upskilling my data structure and algorithms knowledge.
 <br/>
 &nbsp;&nbsp;&nbsp;:office: Currently working as an Instructional Associate @masai-school.
-
+<br/>
+Portfolio: https://gayathry-portfolio.vercel.app/
 <h2 align="center">Contact Me At :star:</h2>
 
 <p align="center">
