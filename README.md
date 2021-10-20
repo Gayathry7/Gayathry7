@@ -14,7 +14,7 @@ and user-friendly applications.
 <br/>
 &nbsp;&nbsp;&nbsp;:office: Currently working as an Instructional Associate @masai-school.
 <br/>
-Portfolio: https://gayathry-portfolio.vercel.app/
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Portfolio: https://gayathry-portfolio.vercel.app/
 <h2 align="center">Contact Me At :star:</h2>
 
 <p align="center">
